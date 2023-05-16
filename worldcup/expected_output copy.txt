@@ -57,8 +57,8 @@ Sweden
 Uruguay
 
 Year and team name of all the champions:
-2018|France
 2014|Germany
+2018|France
 
 List of teams that start with 'Co':
 Colombia
